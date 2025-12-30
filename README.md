@@ -14,7 +14,7 @@ This project focuses on analyzing rainfall data and building a basic machine lea
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- Jupyter Notebook
+- Colab
 
 ## Project Workflow
 1. Loaded and explored the dataset using Pandas
